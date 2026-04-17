@@ -1,6 +1,6 @@
 # Global Azure 2026 - Presentation Materials
 
-![Global Azure Logo](./logo.png)
+![Global Azure Logo](./95eeeb4f-7e5d-4adc-8730-fe7ad0484fcf-logo.jpg)
 
 ## Welcome! 👋
 
